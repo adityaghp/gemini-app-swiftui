@@ -18,7 +18,7 @@ git clone https://github.com/adityaghp/gemini-app-swiftui.git
 ```
 3. Open terminal and run the following command to open xcode and run the project
 ```bash
-open -a xcode.
+open -a xcode
 ```
 ## Preview
 <img align="left" width="300"  src="https://github.com/adityaghp/gemini-app-swiftui/assets/122426326/c2b7dc0f-fa84-4850-a8b5-43cbd6189c88">
